@@ -16,7 +16,6 @@ const Home: NextPage = () => {
         </h1>
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
           <Image src="/asheraudio_logo.png" alt="Asher Audio Logo" width="309" height="202"/>
-          {/* <Image src="/asheraudio_logo.png" alt="Asher Audio Logo" width="463" height="303"/> */}
         </div>
 
         <p className="mt-3 text-2xl">
